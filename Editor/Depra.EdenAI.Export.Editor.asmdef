@@ -1,0 +1,17 @@
+{
+	"name": "Depra.EdenAI.Export.Editor",
+	"rootNamespace": "Depra.EdenAI.Export",
+	"references": [
+		"GUID:75e618f3045ad2c7dbf75aac6493d660",
+		"GUID:db9995c773b92944facd2c346c0a3bb4"
+	],
+	"includePlatforms": [],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"autoReferenced": true,
+	"defineConstraints": [],
+	"versionDefines": [],
+	"noEngineReferences": false
+}

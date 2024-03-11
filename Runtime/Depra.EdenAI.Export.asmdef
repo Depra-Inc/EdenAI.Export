@@ -1,7 +1,9 @@
 {
-    "name": "Depra.Template",
-    "rootNamespace": "Depra.Template",
-    "references": [],
+    "name": "Depra.EdenAI.Export",
+    "rootNamespace": "Depra.EdenAI.Export",
+    "references": [
+        "GUID:75e618f3045ad2c7dbf75aac6493d660"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
@@ -9,5 +11,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "noEngineReferences": false
 }
